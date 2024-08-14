@@ -1,0 +1,3 @@
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/bekkeri1991/plugins.git
